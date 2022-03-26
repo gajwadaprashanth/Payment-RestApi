@@ -1,1 +1,1 @@
-# Autopay-restapis
+# ThingsPay-restapis
